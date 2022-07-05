@@ -57,6 +57,10 @@ h2 {
     background-position: left;
 }
 
+.exp {
+    margin-left: 15px;
+}
+
 .exp-item {
     width: 40%;
     margin-left: 5%;
